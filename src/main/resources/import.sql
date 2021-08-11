@@ -1,0 +1,2 @@
+INSERT INTO clientes(tipo_documento,documento,nombre,apellido,direccion,codigo_postal,numero_telefono1,numero_telefono2,correo_electronico,genero,fecha_nacimiento,nivel_estudio,licencia_conduccion,fecha_vencimiento_licencia,contrasena)
+VALUES('CC','10034523210','Tommy','Richard Cortez','Crr89 # 107-23','0054','2561113','3002216754','tommy@gmail.com','M','1988-05-01','Universitario','908976564','2024-05-10','tommy1988');
